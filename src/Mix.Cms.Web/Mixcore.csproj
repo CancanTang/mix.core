@@ -1,6 +1,6 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
-	<PropertyGroup>
-		<TargetFramework>net6.0</TargetFramework>
+<Project Sdk="Microsoft.NET.Sdk.Web">
+	<PropertyGroup><TargetFramework>net11.0</TargetFramework>
+
 		<EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
 		<StartupObject>Mix.Cms.Web.Program</StartupObject>
 		<RunAnalyzersDuringBuild>false</RunAnalyzersDuringBuild>
